@@ -130,3 +130,12 @@ https://github.com/SimonWaldherr/golang-examples
 https://insujang.github.io/2020-04-04/go-modules/
 
 https://go.dev/doc/code
+
+## Useful modules
+
+LOG - https://github.com/rs/zerolog
+Web Framework - https://github.com/gin-gonic/gin
+Swagger - https://github.com/swaggo/swag
+ - https://github.com/getkin/kin-openapi
+ 
+ 
