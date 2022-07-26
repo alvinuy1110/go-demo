@@ -10,3 +10,4 @@ wumbo.spec
 /*.iml
 /target/
 /smoke.spec
+/pkg/
