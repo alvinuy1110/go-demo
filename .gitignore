@@ -1,0 +1,12 @@
+build/
+__pycache__/
+dist/
+*.pyc
+htmlcov/
+.coverage
+wumbo.spec
+.idea/*
+*.jar
+/*.iml
+/target/
+/smoke.spec
